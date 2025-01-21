@@ -50,11 +50,11 @@ function Header2(){
           </svg>
 
         </a>
-        <a           className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-ywhite text-ywhite px-5 py-3 text-black transition hover:bg-ywhite hover:text-primary-500 focus:outline-none focus:ring" href="https://www.the-evaluation-center.org/">
+        <a           className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-ywhite text-ywhite px-5 py-3 text-black transition hover:bg-ywhite hover:text-primary-500 focus:outline-none focus:ring" href="https://www.mmevaluation.com/">
 
           
           <span className="text-sm font-medium">
-           The Evaluation Center</span>
+           Mindful Metrics</span>
 
           <svg
             xmlns="http://www.w3.org/2000/svg"

@@ -15,8 +15,8 @@ export function Footer2() {
           href: "https://loyolaccj.org/",
          },
          {
-            title: "The Evaluation Center",
-            href: "https://www.the-evaluation-center.org/",
+            title: "Mindful Metrics",
+            href: "https://www.mmevaluation.com/",
           },
 
          

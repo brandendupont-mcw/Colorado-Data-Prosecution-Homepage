@@ -15,7 +15,7 @@ function LogoGrid() {
               <img className="max-h-16" src="../static/images/ccj-black-logo.png" alt="logo"/>
             </div>
             <div className="flex justify-center col-span-1 px-8">
-              <img className="max-h-16" src="../static/images/eval-center-logo.png" alt="logo"/>
+              <img className="max-h-16" src="../static/images/MM_logo_black_web.png" alt="logo"/>
             </div>
             <div className="flex justify-center col-span-1 px-8">
               <img className="max-h-16" src="../static/images/ppi-logo.png" alt="logo"/>
@@ -43,7 +43,7 @@ function LogoSection(){
             Project Partners 
             </h1>
             <p className="mt-4 text-base font-medium text-black text-balance">
-            This project is a partnership between Dr. Lauren Gase,<a className="text-lblue hover:underline" href="https://www.the-evaluation-center.org/project/prosecutorial-dashboards/"> The Evaluation Center at the University of Colorado Denver</a>; Dr. Don Stemen and Branden DuPont, the <a className="text-lblue hover:underline" href="https://loyolaccj.org"> Center for Criminal Justice at Loyola University Chicago</a> ; and Tuan Nguyen, the <a className="text-lblue hover:underline" href="https://coloradoprosecutors.org/">Colorado District Attorneys’ Council</a>. 
+            This project is a partnership between Dr. Lauren Gase,<a className="text-lblue hover:underline" href="https://www.mmevaluation.com/"> Mindful Metrics</a>; Dr. Don Stemen and Branden DuPont, the <a className="text-lblue hover:underline" href="https://loyolaccj.org"> Center for Criminal Justice at Loyola University Chicago</a> ; and Tuan Nguyen, the <a className="text-lblue hover:underline" href="https://coloradoprosecutors.org/">Colorado District Attorneys’ Council</a>. 
 
             </p>
             <p className="mt-4 text-base font-medium text-black text-balance">
@@ -57,7 +57,7 @@ function LogoSection(){
           
           <div className="grid sm:grid-cols-2 grid-cols-1 gap-10 py-24">
             <div className="">
-              <img className="max-h-14" src="../static/images/eval-center-logo.png" alt="logo"/>
+              <img className="max-h-14" src="../static/images/MM_logo_black_web.png" alt="logo"/>
             </div>
             <div className="">
               <img className="max-h-14" src="../static/images/ccj-black-logo.png" alt="logo"/>
