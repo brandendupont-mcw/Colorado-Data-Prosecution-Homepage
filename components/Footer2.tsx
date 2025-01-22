@@ -79,13 +79,13 @@ export function Footer2() {
           </svg>
         </button>
         </a>
-        <a href="https://www.the-evaluation-center.org/">
+        <a href="https://www.mmevaluation.com/">
         <button
           className="inline-flex items-center justify-center gap-1.5 rounded-lg border border-ywhite text-ywhite px-5 py-3 text-black transition hover:bg-ywhite hover:text-primary-500 focus:outline-none focus:ring"
           type="button"
         >
           <span className="text-sm font-medium">
-           The Evaluation Center</span>
+           Mindful Metrics</span>
 
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -109,7 +109,7 @@ export function Footer2() {
 
   </div>
   <div className="pt-8 mt-12 border-t border-white ">
-    <div className="text-white grid justify-center">Updated On: 7-17-2024</div>
+    <div className="text-white grid justify-center">Updated On: 1-22-2025</div>
     </div>
 
     
