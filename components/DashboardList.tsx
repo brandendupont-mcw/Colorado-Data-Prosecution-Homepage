@@ -43,7 +43,9 @@ function DashboardList(){
         {title:'21st Judicial District Attorney Data Dashboard',
         link:'https://data.dacolorado.org/21st/'},
         {title:'22nd Judicial District Attorney Data Dashboard',
-        link:'https://data.dacolorado.org/22nd/'}
+        link:'https://data.dacolorado.org/22nd/'},
+        {title:'23rd Judicial District Attorney Data Dashboard',
+            link:'https://data.dacolorado.org/23rd/'}
     ]
 
     
