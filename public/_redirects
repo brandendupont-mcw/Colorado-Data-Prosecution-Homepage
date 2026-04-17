@@ -34,7 +34,7 @@
 
 /17th/*  https://co-17th-district.netlify.app/:splat 200 
 
-/18th/*  https://co-18th-district.netlify.app/:splat 200 
+/18th/*  https://co-18th-district.netlify.app/18th/:splat 200 
 
 /19th/*  https://jd-19.netlify.app/:splat 200 
 
